@@ -1,3 +1,3 @@
-EKLE---yeni hasta eklenmesi için.
-LISTELE---hsata bilgilerinin listelenmesi
-CIKIS---programdan çıkılması.
+EKLE---Yeni hasta eklenmesi için.
+LISTELE---Hasta bilgilerinin listelenmesini sağlar.
+CIKIS---Programı sonlandırır.
